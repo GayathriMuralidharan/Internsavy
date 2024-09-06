@@ -2,7 +2,7 @@
 # Data Science Internship - InternSavy
 
 ## Project Overview
-This project is a culmination of the Data Analytics internship at InternSavy. The internship provided hands-on experience with essential data analysis tools and methodologies. The focus was on applying theoretical knowledge to real-world data through tasks.
+This project is a culmination of the Data Science internship at InternSavy. The internship provided hands-on experience with essential data analysis tools and methodologies. The focus was on applying theoretical knowledge to real-world data through tasks.
 
 ## Projects
 1. Customer Segmentation Analysis
